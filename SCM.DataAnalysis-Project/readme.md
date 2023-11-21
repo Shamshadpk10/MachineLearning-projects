@@ -18,38 +18,7 @@ optimum weight of the product to be shipped each time from the respective wareho
 2. Highlight any trend in data, deep insight, novel steps that you take
 3. Highlight next steps and improvements.
 4. Apply 5 to 6 machine learning algorithms and evaluate it using : [Test dataset](https://drive.google.com/file/d/11V08gQiXAHHz2-dy3FX6pbY21I9x9wle/view)
-
 #
-
-### Data Dictionary
-#####
-
-| Variable                    | Description                                                   |
-|-----------------------------|---------------------------------------------------------------|
-| Ware_house_ID               | Unique Warehouse id where product is prepared for dispatch.    |
-| WH_Manager_ID               | Manager Id present in the warehouse.                           |
-| zone                        | Zone of the Warehouse.                                        |
-| WH_regional_zone            | Regional Zone of the warehouse.                                |
-| num_refill_req_l3m          | Reﬁlling request received by the warehouse in the last 3 months.|
-| transport_issue_l1y         | No. of transport issued for warehouse in last 1 year.         |
-| Competitor_in_mkt           | No. of competitors in the market.                              |
-| retail_shop_num             | Number of retail shops who sell noodles produced by the warehouse.|
-| wh_owner_type               | The warehouse is owned by the company or it is on rent.        |
-| distributor_num             | No. of distributor who works between warehouse and retail shops.|
-| flood_impacted              | Is the warehouse in a ﬂood impacted area or not.              |
-| flood_proof                 | Flood_proof: Warehouse is having ﬂood proof indicator.         |
-| electric_supply             | Does the warehouse have proper electric supply along with some power backup.|
-| dist_from_hub               | Distance from the warehouse to production hub.                 |
-| workers_num                 | Number of workers in the warehouse.                            |
-| wh_est_year                 | Warehouse establishment year.                                  |
-| storage_issue_reported_l3m  | Storage issues reported by the warehouse in the last 3 months. |
-| temp_reg_mach               | Warehouse having temperature regulating machine indicator or not.|
-| approved_wh_govt_certificate| Type of approval warehouse having been issued by government.    |
-| wh_breakdown_l3m            | Number of times the warehouse faces the breakdown in the last 3 months.|
-| product_wg_ton              | Product weight.                                                |
-
-
-
 
 ## What i did in this Project
 - Exploratory Analysis: Conducted an in-depth examination of the dataset, analyzing its structure, distributions, and attributes to gain a comprehensive understanding.

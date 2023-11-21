@@ -63,7 +63,7 @@ optimum weight of the product to be shipped each time from the respective wareho
 - Algorithm Selection: Opted for various regression algorithms (Linear Regression, Decision Trees, Random Forest, Gradient Boosting, Support Vector Machine, XGBoost) to construct predictive models.
 - Model Training & Evaluation: Trained models on the training data, refined hyperparameters, and evaluated performance using key metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared scores.
 - Visualization of Model Performance: Generated scatter plots to compare model predictions against actual values, providing insights into algorithm behaviors.
-- Conclusion: Highlighted the strength of Gradient Boosting and XGBoost models in managing inventory dynamically due to their accuracy and robust performance. Proposed enhancing the Support Vector Machine by refining parameters to further optimize supply chain strategies.
+
 
 
 ## Algorithms Used in the Project
@@ -108,3 +108,6 @@ optimum weight of the product to be shipped each time from the respective wareho
 - **Mean Absolute Error (MAE):** 654.6813
 - **Mean Squared Error (MSE):** 778611.8524
 - **R-squared Score (R2):** 0.9943
+
+### Conclusion:
+- Highlighted the strength of Gradient Boosting and XGBoost models in managing inventory dynamically due to their accuracy and robust performance. Proposed - -enhancing the Support Vector Machine by refining parameters to further optimize supply chain strategies.

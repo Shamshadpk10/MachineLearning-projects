@@ -51,42 +51,16 @@ optimum weight of the product to be shipped each time from the respective wareho
 
 
 
-## Project Overview:
-#
-#### Exploratory Analysis:
-
-- Conducted an in-depth analysis of the dataset to understand its structure, distributions, and attributes.
-#### Creation of New Attributes:
-
-- Engineered new features based on existing data attributes to enhance predictive capabilities.
-#### Data Preprocessing:
-
-- Cleaned and preprocessed the dataset, handling missing values, outliers, and standardizing or normalizing features as required.
-#### Exploratory Data Analysis (EDA):
-
-- Explored relationships between variables, identified trends, patterns, and outliers to gain valuable insights into the dataset.
-#### Visualization:
-
-- Employed various visualization techniques to represent data distributions, correlations, and trends effectively.
-#### Label Encoding:
-
-- Converted categorical columns into numerical format using label encoding for model compatibility.
-#### Correlation Analysis:
-
-- Investigated attribute correlations to understand the relationships between different features.
-#### Train-Test Split:
-
-- Segregated the dataset into training and testing sets for model training and evaluation.
-#### Algorithm Selection:
-
-- Chose a variety of regression algorithms (Linear Regression, Decision Trees, Random Forest, Gradient Boosting, Support Vector Machine, XGBoost) to build predictive models.
-#### Model Training & Evaluation:
-
-- Trained models on the training data, performed hyperparameter tuning, and evaluated their performance using various metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared scores.
-#### Visualization of Model Performance:
-
-- Visualized model predictions against actual values using scatter plots to compare algorithm behaviors.
-#### Conclusion:
-
-- The analysis highlights Gradient Boosting and XGBoost models as strong performers due to their accurate and robust performance in managing inventory dynamically. Improving the Support Vector Machine through fine-tuning parameters could further enhance supply chain strategies.
-
+## What i did in this Project
+- Exploratory Analysis: Conducted an in-depth examination of the dataset, analyzing its structure, distributions, and attributes to gain a comprehensive understanding.
+- Creation of New Attributes: Engineered new features based on existing data attributes, enhancing the dataset's predictive capabilities.
+- Data Preprocessing: Cleaned and preprocessed the dataset, addressing missing values, outliers, and standardizing or normalizing features as necessary.
+- Exploratory Data Analysis (EDA): Explored interrelationships among variables, identified trends, patterns, and outliers, extracting crucial insights.
+- Visualization: Utilized diverse visualization techniques to depict data distributions, correlations, and trends effectively.
+- Label Encoding: Converted categorical columns into numerical format using label encoding for better model compatibility.
+- Correlation Analysis: Investigated correlations among attributes to comprehend the connections between different features.
+- Train-Test Split: Separated the dataset into training and testing sets for model training and evaluation purposes.
+- Algorithm Selection: Opted for various regression algorithms (Linear Regression, Decision Trees, Random Forest, Gradient Boosting, Support Vector Machine, XGBoost) to construct predictive models.
+- Model Training & Evaluation: Trained models on the training data, refined hyperparameters, and evaluated performance using key metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared scores.
+- Visualization of Model Performance: Generated scatter plots to compare model predictions against actual values, providing insights into algorithm behaviors.
+- Conclusion: Highlighted the strength of Gradient Boosting and XGBoost models in managing inventory dynamically due to their accuracy and robust performance. Proposed enhancing the Support Vector Machine by refining parameters to further optimize supply chain strategies.

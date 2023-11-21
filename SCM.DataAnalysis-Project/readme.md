@@ -20,7 +20,7 @@ optimum weight of the product to be shipped each time from the respective wareho
 4. Apply 5 to 6 machine learning algorithms and evaluate it using : [Test dataset](https://drive.google.com/file/d/11V08gQiXAHHz2-dy3FX6pbY21I9x9wle/view)
 #
 
-#### What i did in this project
+#### Project Workflow
 - Exploratory Analysis: Conducted an in-depth examination of the dataset, analyzing its structure, distributions, and attributes to gain a comprehensive understanding.
 - Creation of New Attributes: Engineered new features based on existing data attributes, enhancing the dataset's predictive capabilities.
 - Data Preprocessing: Cleaned and preprocessed the dataset, addressing missing values, outliers, and standardizing or normalizing features as necessary.

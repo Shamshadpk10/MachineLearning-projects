@@ -64,3 +64,47 @@ optimum weight of the product to be shipped each time from the respective wareho
 - Model Training & Evaluation: Trained models on the training data, refined hyperparameters, and evaluated performance using key metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared scores.
 - Visualization of Model Performance: Generated scatter plots to compare model predictions against actual values, providing insights into algorithm behaviors.
 - Conclusion: Highlighted the strength of Gradient Boosting and XGBoost models in managing inventory dynamically due to their accuracy and robust performance. Proposed enhancing the Support Vector Machine by refining parameters to further optimize supply chain strategies.
+
+
+## Algorithms Used in the Project
+
+1. Linear Regression
+2. Decision Tree
+3. Random Forest
+4. Gradient Boosting
+5. Support Vector Machine
+6. XGBoost
+
+---
+
+## Evaluation Metrics
+
+### Linear Regression
+- **Mean Absolute Error (MAE):** 1299.9551
+- **Mean Squared Error (MSE):** 3119596.9403
+- **R-squared Score (R2):** 0.9770
+
+### Decision Tree
+- **Mean Absolute Error (MAE):** 771.2642
+- **Mean Squared Error (MSE):** 1299467.3815
+- **R-squared Score (R2):** 0.9904
+
+### Random Forest
+- **Mean Absolute Error (MAE):** 690.0176
+- **Mean Squared Error (MSE):** 903888.7051
+- **R-squared Score (R2):** 0.9933
+
+### Gradient Boosting
+- **Mean Absolute Error (MAE):** 677.0715
+- **Mean Squared Error (MSE):** 805277.1301
+- **R-squared Score (R2):** 0.9941
+
+### Support Vector Machine
+- **Mean Absolute Error (MAE):** 9612.9720
+- **Mean Squared Error (MSE):** 135583288.0584
+- **R-squared Score (R2):** 0.0001
+
+### XGBoost
+- **Mean Absolute Error (MAE):** 654.6813
+- **Mean Squared Error (MSE):** 778611.8524
+- **R-squared Score (R2):** 0.9943

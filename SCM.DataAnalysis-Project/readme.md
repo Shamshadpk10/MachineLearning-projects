@@ -1,6 +1,8 @@
 
 #
 #### OVERVIEW
+
+
 A Fast Moving Consumer Goods (FMCG) company entered into the instant noodles business two
 years back. Their higher management has noticed that there is a mismatch in the demand and
 supply. Where the demand is high, supply is pretty low and vice-versa which results in a loss in
@@ -45,3 +47,46 @@ optimum weight of the product to be shipped each time from the respective wareho
 | approved_wh_govt_certificate| Type of approval warehouse having been issued by government.    |
 | wh_breakdown_l3m            | Number of times the warehouse faces the breakdown in the last 3 months.|
 | product_wg_ton              | Product weight.                                                |
+
+
+
+
+## Project Overview:
+#
+#### Exploratory Analysis:
+
+- Conducted an in-depth analysis of the dataset to understand its structure, distributions, and attributes.
+#### Creation of New Attributes:
+
+- Engineered new features based on existing data attributes to enhance predictive capabilities.
+#### Data Preprocessing:
+
+- Cleaned and preprocessed the dataset, handling missing values, outliers, and standardizing or normalizing features as required.
+#### Exploratory Data Analysis (EDA):
+
+- Explored relationships between variables, identified trends, patterns, and outliers to gain valuable insights into the dataset.
+#### Visualization:
+
+- Employed various visualization techniques to represent data distributions, correlations, and trends effectively.
+#### Label Encoding:
+
+- Converted categorical columns into numerical format using label encoding for model compatibility.
+#### Correlation Analysis:
+
+- Investigated attribute correlations to understand the relationships between different features.
+#### Train-Test Split:
+
+- Segregated the dataset into training and testing sets for model training and evaluation.
+#### Algorithm Selection:
+
+- Chose a variety of regression algorithms (Linear Regression, Decision Trees, Random Forest, Gradient Boosting, Support Vector Machine, XGBoost) to build predictive models.
+#### Model Training & Evaluation:
+
+- Trained models on the training data, performed hyperparameter tuning, and evaluated their performance using various metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared scores.
+#### Visualization of Model Performance:
+
+- Visualized model predictions against actual values using scatter plots to compare algorithm behaviors.
+#### Conclusion:
+
+- The analysis highlights Gradient Boosting and XGBoost models as strong performers due to their accurate and robust performance in managing inventory dynamically. Improving the Support Vector Machine through fine-tuning parameters could further enhance supply chain strategies.
+
